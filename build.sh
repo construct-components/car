@@ -1,3 +1,3 @@
-lessc -x assets/less/construct.component.less assets/css/construct.component.css
+lessc -x assets/less/construct.car.less assets/css/construct.car.css
 
-uglifyjs assets/js/construct.component.js -o assets/js/construct.component-min.js -m
+uglifyjs assets/js/construct.car.js -o assets/js/construct.car-min.js -m

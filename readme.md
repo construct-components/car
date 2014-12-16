@@ -1,4 +1,4 @@
-# Construct: Component
+# Construct: Car
 
 A custom element using [VanillaJS](http://vanilla-js.com/).
 
@@ -14,7 +14,7 @@ Replace ```component``` with your custom element alias.
 
 Apart from [Construct](http://github.com/makesites/construct) this component uses:
 
-*
+* [Wheeled](http://github.com/construct-components/wheeled)
 
 
 ## Install
@@ -22,10 +22,10 @@ Apart from [Construct](http://github.com/makesites/construct) this component use
 Install the component using [Bower](http://bower.io/):
 
 ```sh
-$ bower install construct.component
+$ bower install construct.car
 ```
 
-Or [download as ZIP](https://github.com/construct-components/component/archive/master.zip).
+Or [download as ZIP](https://github.com/construct-components/car/archive/master.zip).
 
 
 ## Usage
@@ -39,13 +39,13 @@ Or [download as ZIP](https://github.com/construct-components/component/archive/m
 2. Import Custom Element:
 
 ```html
-<link rel="import" href="bower_components/construct.component">
+<link rel="import" href="bower_components/construct.car">
 ```
 
 3. Start using it!
 
 ```html
-<component is="construct-component"></component>
+<car is="construct-car"></car>
 ```
 
 
