@@ -1,6 +1,6 @@
 {
 	"name": "construct.car",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"description": "Construct: Car",
 	"license": "MIT",
 	"main": "index.html",
@@ -13,7 +13,7 @@
 		"bower_components"
 	],
 	"dependencies": {
-		"construct-wheeled": "*",
+		"construct.wheeled": "*",
 		"webcomponentsjs": "^0.5.1"
 	}
 }
