@@ -39,7 +39,7 @@ Or [download as ZIP](https://github.com/construct-components/car/archive/master.
 2. Import Custom Element:
 
 ```html
-<link rel="import" href="bower_components/construct.car">
+<link rel="import" href="components/construct.car">
 ```
 
 3. Start using it!

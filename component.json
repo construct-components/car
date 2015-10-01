@@ -5,15 +5,16 @@
 	"license": "MIT",
 	"main": "index.html",
 	"keywords": [
-		"car", "construct", "three", "webgl", "web-components"
+		"car", "construct", "three", "webgl", "component", "web-components"
 	],
+	"main": "index.html",
 	"ignore": [
-		"**/.*",
-		"node_modules",
-		"bower_components"
+		"bower_components",
+		"components",
+		"node_modules"
 	],
 	"dependencies": {
 		"construct.wheeled": "*",
-		"webcomponentsjs": "^0.5.1"
+		"webcomponentsjs": "*"
 	}
 }
