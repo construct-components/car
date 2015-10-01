@@ -22,7 +22,7 @@ Apart from [Construct](http://github.com/makesites/construct) this component use
 Install the component using [Bower](http://bower.io/):
 
 ```sh
-$ bower install construct.car
+$ bower install construct-car
 ```
 
 Or [download as ZIP](https://github.com/construct-components/car/archive/master.zip).
@@ -39,7 +39,7 @@ Or [download as ZIP](https://github.com/construct-components/car/archive/master.
 2. Import Custom Element:
 
 ```html
-<link rel="import" href="components/construct.car">
+<link rel="import" href="components/construct-car">
 ```
 
 3. Start using it!
